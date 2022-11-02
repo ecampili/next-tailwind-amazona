@@ -7,6 +7,7 @@
 3. Create Next App
 4. Publish to Github
 5. Create Website Layout
+
    i. create layout component
    ii. add header
    iii. add main section
