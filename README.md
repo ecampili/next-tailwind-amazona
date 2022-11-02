@@ -9,7 +9,11 @@
 5. Create Website Layout
 
    i. create layout component
+
    ii. add header
+
    iii. add main section
+
    iv. add footer
+
    v. add tailwind classes
